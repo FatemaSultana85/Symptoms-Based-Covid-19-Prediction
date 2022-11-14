@@ -1,6 +1,5 @@
 # Instruction:
-Use the dataset provided by the link-
-https://drive.google.com/drive/u/0/folders/1FL5FcQN2XrBR_Vzqz--1fe8VVjNzXZnp
+Use the [dataset](https://drive.google.com/drive/u/0/folders/1FL5FcQN2XrBR_Vzqz--1fe8VVjNzXZnp) 
 
 # Project Title:
 Symptoms Based Covid-19 Prediction Using Machine Learning.
